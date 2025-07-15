@@ -6,3 +6,7 @@ p {
   color: saddlebrown;
   border: 5px solid pink;
 }
+img {
+  border-radius: 30%;
+  
+}
